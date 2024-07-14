@@ -1,0 +1,9 @@
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\bin\Debug\Negocio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\bin\Debug\Negocio.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\bin\Debug\Dominio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\bin\Debug\Dominio.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\obj\Debug\Negocio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,6 @@
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\bin\Debug\Dominio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\bin\Debug\Dominio.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\obj\Debug\Dominio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Dominio\obj\Debug\Dominio.pdb

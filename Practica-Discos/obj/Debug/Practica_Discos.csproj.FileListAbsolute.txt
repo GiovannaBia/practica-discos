@@ -1,0 +1,16 @@
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Practica-Discos.exe.config
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Practica-Discos.exe
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Practica-Discos.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Dominio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Negocio.dll
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Dominio.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\bin\Debug\Negocio.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.Form1.resources
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.Properties.Resources.resources
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.csproj.GenerateResource.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.csproj.CoreCompileInputs.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.csproj.CopyComplete
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica-Discos.exe
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica-Discos.pdb
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.csproj.AssemblyReference.cache
+E:\Escritorio\progamación\gio\Curso C# Nivel2\Practica-DBdiscos\Practica-Discos\Practica-Discos\obj\Debug\Practica_Discos.frmAltaDisco.resources
